@@ -1,0 +1,28 @@
+.footer {
+  width: 1280px;
+  height: 3504px;
+  top: 5627px;
+  gap: 0px;
+  opacity: 0px;  
+  }
+  .footer img{
+    width: 1280px;
+height: 3504px;
+top: 5627px;
+gap: 0px;
+opacity: 0px;
+background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238, 204, 0.6) 38.16%);
+
+  }
+  .shark-tank-section {
+    background-color: #fff0e5;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  
+  .life-goals-section {
+    background-color: #e5f7ff;
+    padding: 20px;
+    margin: 20px 0;
+  }
+  

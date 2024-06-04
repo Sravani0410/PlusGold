@@ -1,0 +1,73 @@
+.historical-gold-price {
+  width: 1078px;
+  height: 577px;
+  top: 3165px;
+  left: 101px;
+  gap: 26.82px;
+  border-radius: 26px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  
+  }
+  .historial-heading{
+    display: flex;
+    justify-content: space-around;
+  }
+  .historical-p{
+    width: 241px;
+height: 31px;
+top: 35px;
+left: 24px;
+gap: 0px;
+opacity: 0px;
+
+  }
+  .historial-heading img{
+    width: Fixed (197px)px;
+height: Hug (101.82px)px;
+top: 33px;
+left: 857px;
+padding: 13.91px 0px 0px 0px;
+gap: 0px;
+border-radius: 16.69px 16.69px 0px 16.69px;
+border: 0.28px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  .graph{
+    width: 1078px;
+height: 309.66px;
+top: 153.89px;
+gap: 0px;
+border: 2.09px 0px 0px 0px;
+opacity: 0px;
+
+  }
+  .month{
+    width: 1014px;
+    height: 41px;
+    top: 446px;
+    left: 32px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+  }
+  .historical-gold-price h2 {
+    font-size: 24px;
+  }
+  
+  .historical-gold-price img {
+    max-width: 100%;
+    height: auto;
+  }
+  .grapgh-weeks{
+    width: 1014px;
+height: 41.02px;
+top: 503.04px;
+left: 32px;
+gap: 0px;
+border-radius: 8.33px 0px 0px 0px;
+opacity: 0px;
+
+  }

@@ -1,0 +1,63 @@
+.safe-for-life-section{
+    width: 871.83px;
+    height: 566px;
+    top: 2407.6px;
+    left: 214px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+.safe-container{
+
+}
+.safe-name{
+    width: 557px;
+height: 80px;
+top: 2407.6px;
+left: 367px;
+gap: 0px;
+opacity: 0px;
+
+}
+.safe-heading{
+    width: 692px;
+height: 36px;
+top: 2495.6px;
+left: 300px;
+gap: 0px;
+opacity: 0px;
+
+}
+.schemes{
+    display: flex;
+    justify-content: space-between;
+
+}
+.schemes-step img{
+    
+    width: 235.83px;
+    height: 259.86px;
+    top: 2604.6px;
+    left: 214px;
+    gap: 0px;
+    border-radius: 17.8px 0px 0px 0px;
+    border: 0.89px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+.schemes-step p{
+    width: 236px;
+height: 42px;
+top: 2911px;
+left: 221px;
+gap: 0px;
+opacity: 0px;
+
+}
+.start-saving-btn{
+    width: 126px;
+height: 23px;
+gap: 0px;
+opacity: 0px;
+
+}
