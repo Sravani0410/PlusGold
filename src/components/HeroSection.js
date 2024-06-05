@@ -1,6 +1,6 @@
 import React from "react";
 import "./HeroSection.css";
-import heroImage from "../assests/images/Retouch.png";
+import heroImage from "../assests/images/Retouch.jpg";
 import poweredby from "../assests/images/poweredby.png";
 const HeroSection = () => {
   return (
