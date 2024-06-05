@@ -1,7 +1,7 @@
 import React from "react";
 import "./MediaLovesPlus.css";
-import image from "../assests/images/Group 1707481292.png";
-import dots from "../assests/images/Group 1707481287.png";
+import image from "../assests/images/media1.png";
+import dots from "../assests/images/media2.png";
 const MediaLovesPlus = () => {
   // const media = [
   //   /* Array of media articles */

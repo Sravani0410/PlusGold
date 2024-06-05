@@ -1,7 +1,10 @@
 import React from "react";
 import "./HowItWorks.css";
-import image1 from "../assests/images/Rectangle 34624969.png";
-import image4 from "../assests/images/Frame 4868202.png";
+import work5 from "../assests/images/work5.png";
+import work1 from "../assests/images/work1.png";
+import work2 from "../assests/images/work2.png";
+import work3 from "../assests/images/work3.png";
+import work4 from "../assests/images/work4.png";
 
 const HowItWorks = () => {
   return (
@@ -13,36 +16,36 @@ const HowItWorks = () => {
         </p>
         <div className="steps">
           <div className="step">
-            <img src={image1} />
+            <img src={work5} />
             <h3>What is PlusGOLD?</h3>
             <p>Learn about PlusGold and its features.</p>
           </div>
           <div className="step">
-            <img src={image1} />
+            <img src={work5} />
             <h3>How to Save on Plus?</h3>
             <p>Details on SIPs and one-time payments.</p>
           </div>
           <div className="step">
-            <img src={image1} />
+            <img src={work5} />
             <h3>How to Redeem?</h3>
             <p>Instructions on cash, gold, or jewellery redemption.</p>
           </div>
         </div>
         <div className="benifits">
           <div className="benifits-step">
-            <img src={image4} />
+            <img src={work1} />
             <p>No Lock-in on Plus Gold</p>
           </div>
           <div className="benifits-step">
-            <img src={image4} />
+            <img src={work2} />
             <p>Easy Withdrawal</p>
           </div>
           <div className="benifits-step">
-            <img src={image4} />
+            <img src={work3} />
             <p>Fixed Extra Gold p.a.</p>
           </div>
           <div className="benifits-step">
-            <img src={image4} />
+            <img src={work4} />
             <p>Bonus benefits from Jeweller</p>
           </div>
         </div>

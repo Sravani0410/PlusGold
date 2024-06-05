@@ -1,6 +1,6 @@
 import React from 'react';
 import './TrustedJewellers.css';
-import image from "../assests/images/Group 1707481221.png"
+import image from "../assests/images/trustedjewerlly.png"
 
 const TrustedJewellers = () => {
   // const jewellers = [/* Array of jeweller logos */];

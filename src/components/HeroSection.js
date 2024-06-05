@@ -1,7 +1,7 @@
 import React from "react";
 import "./HeroSection.css";
 import heroImage from "../assests/images/Retouch.png";
-import poweredby from "../assests/images/Frame 1707481029.png";
+import poweredby from "../assests/images/poweredby.png";
 const HeroSection = () => {
   return (
     <section className="hero-section">

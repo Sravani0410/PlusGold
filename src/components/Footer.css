@@ -38,14 +38,14 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
   }
   .demo2{
     /* border: 1px solid green; */
-    background: url("../assests/images/Vector\ 2.png");
+    background: url("../assests/images/footerimge2.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
   .banksafelogo{
     /* border: 2px solid red; */
     display: block;
-    background: url("../assests/images/Bank Safe.png");
+    background: url("../assests/images/banksafe.png");
     position: absolute;
     width: 300px;
     height: 300px;
@@ -68,7 +68,7 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
   }
   .brand-safe{
     display: block;
-    background: url("../assests/images/Frame\ 4868223.png");
+    background: url("../assests/images/footerimage1.png");
     position: absolute;
     width: 350px;
     height: 50px;

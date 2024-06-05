@@ -1,7 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import logo from "../assests/images/Group 1707481264.png"
-import socialmedia from "../assests/images/Group 189298.png"
+import logo from "../assests/images/pplus.png"
+import socialmedia from "../assests/images/socialmedia.png"
 // import brands from "../assests/images/Frame 4868223.png";
 // import pluslogo from "../assests/images/plusgoldlogo.jpg"
 const Footer = () => {
