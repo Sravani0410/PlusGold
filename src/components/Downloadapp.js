@@ -14,8 +14,8 @@ const Downloadapp = () => {
             their jewellery purchase by saving monthly & gaining 10% IRR
           </p>
           <div className="download-image">
-            <img src={image} />
-            <img src={image1} />
+            <img src={image} alt="img1"/>
+            <img src={image1} alt="img2"/>
           </div>
         </div>
         <div>

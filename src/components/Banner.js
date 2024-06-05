@@ -4,7 +4,7 @@ import "./Banner.css"
 const Banner = () => {
   return (
     <section className='banner-section'>
-        <img src={banner}/>
+        <img src={banner} alt='img'/>
     </section>
   )
 }

@@ -16,36 +16,36 @@ const HowItWorks = () => {
         </p>
         <div className="steps">
           <div className="step">
-            <img src={work5} />
+            <img src={work5} alt="work1"/>
             <h3>What is PlusGOLD?</h3>
             <p>Learn about PlusGold and its features.</p>
           </div>
           <div className="step">
-            <img src={work5} />
+            <img src={work5} alt="work2" />
             <h3>How to Save on Plus?</h3>
             <p>Details on SIPs and one-time payments.</p>
           </div>
           <div className="step">
-            <img src={work5} />
+            <img src={work5} alt="work3"/>
             <h3>How to Redeem?</h3>
             <p>Instructions on cash, gold, or jewellery redemption.</p>
           </div>
         </div>
         <div className="benifits">
           <div className="benifits-step">
-            <img src={work1} />
+            <img src={work1} alt="work4"/>
             <p>No Lock-in on Plus Gold</p>
           </div>
           <div className="benifits-step">
-            <img src={work2} />
+            <img src={work2} alt="work5"/>
             <p>Easy Withdrawal</p>
           </div>
           <div className="benifits-step">
-            <img src={work3} />
+            <img src={work3} alt="work6"/>
             <p>Fixed Extra Gold p.a.</p>
           </div>
           <div className="benifits-step">
-            <img src={work4} />
+            <img src={work4} alt="work7"/>
             <p>Bonus benefits from Jeweller</p>
           </div>
         </div>
