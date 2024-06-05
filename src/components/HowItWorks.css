@@ -4,7 +4,6 @@
   /* top: 1246px; */
   /* left: 105px; */
   /* gap: 0px; */
-  /* opacity: 0px; */
 
   /* padding: 40px 0; */
   /* background: #f1f1f1; */
@@ -23,7 +22,6 @@
   /* top: 1246px; */
   /* left: 285px; */
   gap: 0px;
-  opacity: 0px;
 }
 .name-subheading {
   width: 692px;
@@ -31,7 +29,6 @@
   /* top: 1337px; */
   /* left: 299px; */
   gap: 0px;
-  opacity: 0px;
 }
 .steps {
   display: flex;
@@ -44,7 +41,6 @@ left: 105px;
 gap: 26.82px;
 border-radius: 26.82px ;
 border: 1px 0px 0px 0px;
-opacity: 0px;
 
 }
 
@@ -58,7 +54,6 @@ height: 161.27px;
 top: 45px;
 left: 737.45px;
 gap: 0px;
-opacity: 0px;
 
 }
 .step h3 {
@@ -88,7 +83,6 @@ opacity: 0px;
   gap: 19.76px;
   border-radius: 19.76px;
   /* border: 0.74px 0px 0px 0px; */
-  opacity: 0px;
 }
 .benifits-step img {
   width: 59.27px;
@@ -99,7 +93,6 @@ opacity: 0px;
   gap: 0px;
   /* border-radius: 370.41px 0px 0px 0px; */
   border: 2.47px 0px 0px 0px;
-  opacity: 0px;
 }
 .benifits-step p {
   width: 130.39px;
@@ -107,7 +100,6 @@ opacity: 0px;
   top: 23px;
   left: 105px;
   gap: 0px;
-  opacity: 0px;
   font-family: DM Sans;
   font-size: 17.68px;
   font-weight: 500;

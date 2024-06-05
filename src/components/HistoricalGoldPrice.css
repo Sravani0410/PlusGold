@@ -7,7 +7,6 @@
   gap: 26.82px;
   border-radius: 26px;
   border: 1px 0px 0px 0px;
-  opacity: 0px;
   border: 2px solid lightgray;
 }
 .historial-heading {
@@ -31,7 +30,6 @@
   gap: 0px;
   border-radius: 16.69px 16.69px 0px 16.69px;
   border: 0.28px 0px 0px 0px;
-  opacity: 0px;
 }
 .graph {
   width: 1078px;
@@ -39,14 +37,12 @@
   top: 153.89px;
   gap: 0px;
   border: 2.09px 0px 0px 0px;
-  opacity: 0px;
 }
 .month {
   width: 1014px;
   position: relative;
   bottom: 205px;
   gap: 0px;
-  opacity: 0px;
   /* border: 1px solid red; */
 }
 .historical-gold-price h2 {
@@ -63,7 +59,6 @@
   top:85px;
   right:15px;
   border-radius: 8.33px 0px 0px 0px;
-  opacity: 0px;
   /* border: 1px solid red; */
 }
 .graph-indicator{
@@ -71,7 +66,6 @@
   bottom:250px;
   right:380px;
   border-radius: 8.33px 0px 0px 0px;
-  opacity: 0px;
 }
 .graph-price{
   /* border: 1px solid red; */

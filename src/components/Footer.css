@@ -6,7 +6,6 @@
   position: relative;
   /* top: 5627px; */
   gap: 0px;
-  opacity: 0px;
   border: 2px solid rgb(243, 244, 240);
   }
   .footer img{
@@ -14,7 +13,7 @@
 /* height: 3504px; */
 /* top: 5627px; */
 gap: 0px;
-opacity: 0px;
+/* : 0px; */
 background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238, 204, 0.6) 38.16%);
 
   }
