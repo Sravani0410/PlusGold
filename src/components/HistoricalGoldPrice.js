@@ -11,16 +11,17 @@ const HistoricalGoldPrice = () => {
     <section className="historical-gold-price">
       <div className='historial-heading'>
       <p className='historial-p'>Historical Gold Price</p>
-      <img src={image1}/>
+      <img src={image1} alt='week-performance' className='week-performance'/>
       </div>
       <div className='graph'>
-        <img src={image2}/>
-        <img src={image3}/>
-        <img src={image4}/>
-        <img className="month" src={months}/>
+        <img src={image2} alt='price' className='graph-price'/>
+        <img src={image3} alt='graph'/>
+        <img className="month" alt='month' src={months}/>
+        <img src={image4} alt="graph-indicator" className='graph-indicator'/>
+
       </div>
-      <div className='graph-weeks'>
-        <img src={weeks}/>
+      <div >
+        <img className='graph-weeks' alt='week' src={weeks}/>
       </div>
     </section>
   );

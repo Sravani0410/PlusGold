@@ -1,73 +1,85 @@
 .historical-gold-price {
   width: 1078px;
   height: 577px;
-  top: 3165px;
-  left: 101px;
+  display: block;
+  /* position: relative; */
+  margin: 0 auto;
   gap: 26.82px;
-  border-radius: 26px 0px 0px 0px;
+  border-radius: 26px;
   border: 1px 0px 0px 0px;
   opacity: 0px;
-  
-  }
-  .historial-heading{
-    display: flex;
-    justify-content: space-around;
-  }
-  .historical-p{
-    width: 241px;
-height: 31px;
-top: 35px;
-left: 24px;
-gap: 0px;
-opacity: 0px;
+  border: 2px solid lightgray;
+}
+.historial-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.historial-p {
+  background: linear-gradient(90deg, hsla(51, 83%, 68%, 1) 0%, hsla(0, 0%, 100%, 1) 62%);
+  padding: 2px 10px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  border: 1px solid lightgray;
+}
+.historial-heading img {
+  /* width: Fixed (197px) px; */
+  height: Hug (101.82px) px;
+  top: 33px;
+  left: 857px;
+  padding: 13.91px 0px 0px 0px;
+  gap: 0px;
+  border-radius: 16.69px 16.69px 0px 16.69px;
+  border: 0.28px 0px 0px 0px;
+  opacity: 0px;
+}
+.graph {
+  width: 1078px;
+  height: 309.66px;
+  top: 153.89px;
+  gap: 0px;
+  border: 2.09px 0px 0px 0px;
+  opacity: 0px;
+}
+.month {
+  width: 1014px;
+  position: relative;
+  bottom: 205px;
+  gap: 0px;
+  opacity: 0px;
+  /* border: 1px solid red; */
+}
+.historical-gold-price h2 {
+  font-size: 24px;
+}
 
-  }
-  .historial-heading img{
-    width: Fixed (197px)px;
-height: Hug (101.82px)px;
-top: 33px;
-left: 857px;
-padding: 13.91px 0px 0px 0px;
-gap: 0px;
-border-radius: 16.69px 16.69px 0px 16.69px;
-border: 0.28px 0px 0px 0px;
-opacity: 0px;
-
-  }
-  .graph{
-    width: 1078px;
-height: 309.66px;
-top: 153.89px;
-gap: 0px;
-border: 2.09px 0px 0px 0px;
-opacity: 0px;
-
-  }
-  .month{
-    width: 1014px;
-    height: 41px;
-    top: 446px;
-    left: 32px;
-    gap: 0px;
-    opacity: 0px;
-    
-
-  }
-  .historical-gold-price h2 {
-    font-size: 24px;
-  }
-  
-  .historical-gold-price img {
-    max-width: 100%;
-    height: auto;
-  }
-  .grapgh-weeks{
-    width: 1014px;
-height: 41.02px;
-top: 503.04px;
-left: 32px;
-gap: 0px;
-border-radius: 8.33px 0px 0px 0px;
-opacity: 0px;
-
-  }
+/* .historical-gold-price img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid red;
+} */
+.graph-weeks{
+  position: relative;
+  top:85px;
+  right:15px;
+  border-radius: 8.33px 0px 0px 0px;
+  opacity: 0px;
+  /* border: 1px solid red; */
+}
+.graph-indicator{
+  position: relative;
+  bottom:250px;
+  right:380px;
+  border-radius: 8.33px 0px 0px 0px;
+  opacity: 0px;
+}
+.graph-price{
+  /* border: 1px solid red; */
+  position: relative;
+  left:130px;
+  top:50px;
+}
+/* .week-performance{
+  position: relative;
+  border: 1px solid red;
+} */

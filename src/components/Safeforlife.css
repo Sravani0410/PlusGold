@@ -1,63 +1,74 @@
 .safe-for-life-section{
-    width: 871.83px;
-    height: 566px;
-    top: 2407.6px;
-    left: 214px;
-    gap: 0px;
-    opacity: 0px;
-    
+    margin: auto auto 0 auto;
+    display: block;
+    /* border-bottom-left-radius: 30%;
+    border-bottom-right-radius: 30%; */
+    /* border: 1px solid green; */
+    padding: 0;
+
 }
 .safe-container{
-
+display: block;
+position: relative;
+z-index: 1;
 }
 .safe-name{
-    width: 557px;
-height: 80px;
-top: 2407.6px;
-left: 367px;
-gap: 0px;
-opacity: 0px;
-
+    margin-top: 40px;
+    margin-bottom: 0;
+text-align: center;
+font-size: 48px;
 }
 .safe-heading{
-    width: 692px;
-height: 36px;
-top: 2495.6px;
-left: 300px;
-gap: 0px;
-opacity: 0px;
-
+text-align: center;
+margin-bottom: 40px;
+font-size: 18px;
 }
 .schemes{
     display: flex;
-    justify-content: space-between;
-
+    justify-content: center;
+    align-items: center;
+    gap:40px;
 }
-.schemes-step img{
-    
+.schemes-step{
     width: 235.83px;
     height: 259.86px;
-    top: 2604.6px;
-    left: 214px;
     gap: 0px;
     border-radius: 17.8px 0px 0px 0px;
     border: 0.89px 0px 0px 0px;
     opacity: 0px;
-    
-}
-.schemes-step p{
-    width: 236px;
-height: 42px;
-top: 2911px;
-left: 221px;
-gap: 0px;
-opacity: 0px;
-
 }
 .start-saving-btn{
-    width: 126px;
-height: 23px;
-gap: 0px;
-opacity: 0px;
-
+    background-color: rgb(188,26,59);
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    position: relative;
+    top: 20px;
+    right: 80px;
+}
+.schemes-dhanteras{
+    width: 200px;
+}
+.wedding{
+    display: inline;
+    position: relative;
+    color: gray;
+    right:160px;
+    font-size: small;
+}
+.dhanteras{
+    display: inline;
+    position: relative;
+    color: gray;
+    left:280px;
+    font-size: small;
+}
+.ellips{
+    width: 100%;
+    position: relative;
+    bottom: 150px;
+    padding: 0;
+    margin: 0;
 }

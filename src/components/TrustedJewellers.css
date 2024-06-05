@@ -1,45 +1,33 @@
 .trusted-jewellers {
   width: 1111.16px;
+  margin: auto;
   height: 430px;
   top: 3802px;
   left: 84px;
   gap: 0px;
   opacity: 0px;
-  
+
   }
-  
+
   .trusted-jewellers h2 {
-    width: 839px;
-    height: 80px;
-    top: 3802px;
-    left: 214px;
-    gap: 0px;
-    opacity: 0px;
     /* styleName: Display/H2(56)/bold; */
 font-family: DM Sans;
-font-size: 56px;
-font-weight: 700;
-line-height: 80px;
+font-size: 50px;
+font-weight: 600;
 letter-spacing: 0.01em;
 text-align: center;
-
-
+padding: 0;
+margin: 40px 0 0;
+/* border: 1px solid red; */
       }
-  
+
   .trusted-jewellers p {
-    width: 799px;
-    height: 36px;
-    top: 3890px;
-    left: 240px;
-    gap: 0px;
-    opacity: 0px;
     /* //styleName: T1(24)/regular; */
 font-family: DM Sans;
-font-size: 24px;
+font-size: 22px;
 font-weight: 400;
-line-height: 36px;
 text-align: center;
-
+margin-bottom: 40px;
       }
   .trusted-jewellers img{
     width: 1111.16px;
@@ -55,10 +43,9 @@ opacity: 0px;
     flex-wrap: wrap;
     justify-content: center;
   }
-  
+
   .jeweller-logos img {
     margin: 10px;
     max-width: 100px;
     height: auto;
   }
-  

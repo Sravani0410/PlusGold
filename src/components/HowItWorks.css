@@ -1,34 +1,35 @@
 .how-it-works-section {
-  width: 1081px;
-  height: 641.78px;
-  top: 1246px;
-  left: 105px;
-  gap: 0px;
-  opacity: 0px;
+  width: 100%;
+  /* height: 641.78px; */
+  /* top: 1246px; */
+  /* left: 105px; */
+  /* gap: 0px; */
+  /* opacity: 0px; */
 
   /* padding: 40px 0; */
-  background: #f1f1f1;
+  /* background: #f1f1f1; */
 }
 
 .works-container {
-  max-width: 1200px;
+  /* width:100%; */
+  max-width: 1082px;
   width: 100%;
   margin: 0 auto;
   text-align: center;
 }
 .name {
-  width: 719px;
+  width: 100%;
   height: 80px;
-  top: 1246px;
-  left: 285px;
+  /* top: 1246px; */
+  /* left: 285px; */
   gap: 0px;
   opacity: 0px;
 }
 .name-subheading {
   width: 692px;
   height: 36px;
-  top: 1337px;
-  left: 299px;
+  /* top: 1337px; */
+  /* left: 299px; */
   gap: 0px;
   opacity: 0px;
 }

@@ -16,7 +16,7 @@ import Downloadapp from './components/Downloadapp';
 function App() {
   return (
     <div className="App">
-      <img src={banner}/>
+      <img className="start-img" src={banner}/>
       <Header />
       <HeroSection />
       <Features />

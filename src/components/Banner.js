@@ -1,10 +1,11 @@
 import React from 'react'
 import banner from "../assests/images/Frame 1707480914.png"
+import "./Banner.css"
 const Banner = () => {
   return (
-    <div>
+    <section className='banner-section'>
         <img src={banner}/>
-    </div>
+    </section>
   )
 }
 

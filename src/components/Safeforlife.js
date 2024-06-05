@@ -1,6 +1,9 @@
 import React from 'react'
 import './Safeforlife.css';
-import image1 from "../assests/images/Frame 1707481182.png"
+import image1 from "../assests/images/Frame 1707481180.png"
+import image2 from "../assests/images/Frame 1707481181.png"
+import image3 from "../assests/images/Frame 1707481182.png"
+import Ellipse from "../assests/images/Ellipse 1744.png"
 
 const Safeforlife = () => {
   return (
@@ -11,22 +14,24 @@ const Safeforlife = () => {
         Save in Plus Gold for life events that matters
         </p>
         <div className="schemes">
-          <div className="schemes-step">
-            <img src={image1} />
-            <p>Start as low as</p>
+          <div>
+            <img src={image3} className="schemes-dhanteras" alt='wedding'/>
+
           </div>
           <div className="schemes-step">
-            <img src={image1} />
-            <p>Start as low as</p>
+            <img src={image2} alt='aniversory'className="schemes-step" />
           </div>
-          <div className="schemes-step">
-            <img src={image1} />
-            <p>Start as low as</p>
+          <div>
+            <img src={image1} className="schemes-dhanteras" alt='dhanteras'/>
+
           </div>
-          
+
         </div>
+        <p className='wedding'>Start as low as</p>
+        <p className='dhanteras'>Start as low as</p>
          <button className='start-saving-btn'>Start Saving Now</button>
       </div>
+      <img src={Ellipse} className="ellips" alt='Ellipse'/>
     </section>
   )
 }

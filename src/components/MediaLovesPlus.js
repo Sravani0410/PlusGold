@@ -3,9 +3,9 @@ import "./MediaLovesPlus.css";
 import image from "../assests/images/Group 1707481292.png";
 import dots from "../assests/images/Group 1707481287.png";
 const MediaLovesPlus = () => {
-  const media = [
-    /* Array of media articles */
-  ];
+  // const media = [
+  //   /* Array of media articles */
+  // ];
 
   return (
     <section className="media-loves-plus">
@@ -14,10 +14,10 @@ const MediaLovesPlus = () => {
         <p>Top publications & news media talks about us</p>
       </div>
       <div className="media-article">
-        <img src={image} />
+        <img src={image} alt="image1" />
       </div>
       <div className="media-dots">
-        <img src={dots} />
+        <img src={dots} alt="dot" />
       </div>
       {/* <div className="media-articles">
         {media.map((article, index) => (
