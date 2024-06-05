@@ -23,7 +23,7 @@
   top: 5035.98px;
   left: 189.76px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
   font-family: DM Sans;
   font-size: 48.16px;
   font-weight: 700;
@@ -47,5 +47,5 @@
   width: 285.89px;
   padding: 0px 0.42px 0px 0.42px;
   gap: 0px;
-  opacity: 0px;
+  /* opacity: 0px; */
 }
