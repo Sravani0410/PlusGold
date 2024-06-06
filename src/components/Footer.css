@@ -6,17 +6,9 @@
   position: relative;
   /* top: 5627px; */
   gap: 0px;
-  border: 2px solid rgb(243, 244, 240);
+  /* border: 2px solid greenyellow; */
   }
-  .footer img{
-    width: 1280px;
-/* height: 3504px; */
-/* top: 5627px; */
-gap: 0px;
-/* : 0px; */
-background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238, 204, 0.6) 38.16%);
 
-  }
   .shark-tank-section {
     background-color: #fff0e5;
     padding: 20px;
@@ -37,14 +29,14 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
   }
   .demo2{
     /* border: 1px solid green; */
-    background: url("../assests/images/footerimge2.png");
+    background: url("../assests/images/Vector\ 2.png");
     background-repeat: no-repeat;
     background-size: cover;
   }
   .banksafelogo{
     /* border: 2px solid red; */
     display: block;
-    background: url("../assests/images/bankimage.jpeg");
+    background: url("../assests/images/Bank\ Safe.png");
     position: absolute;
     width: 300px;
     height: 300px;
@@ -63,11 +55,11 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
   }
 
   .p-plus{
-    width: 10px;
+    width: 90px;
   }
   .brand-safe{
     display: block;
-    background: url("../assests/images/footerimage1.png");
+    background: url("../assests/images/Frame\ 4868223.png");
     position: absolute;
     width: 350px;
     height: 50px;
@@ -92,12 +84,6 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
   .middle-part h2,.right-part h2{
     color: rgb(188,26,59);
   }
-  .left-part .p-plus{
-    width :100px;
-  }
-  .left-part .extra-image1{
-    width:150px;
-  }
 
   .faq-section {
    text-align: left;
@@ -106,12 +92,12 @@ background: linear-gradient(180deg, rgba(255, 238, 204, 0) 2.59%, rgba(255, 238,
     padding: 20px;
     border-radius: 10px;
     position: relative;
-    top:250px;
+    top:182px;
   }
 
   .faq-section h3 {
     font-size: 1.5rem;
-    margin-bottom: 4px;
+    margin-bottom: 10px;
   }
   .faq-section p{
     font-size:1rem;

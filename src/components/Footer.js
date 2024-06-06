@@ -1,9 +1,7 @@
 import React from "react";
 import "./Footer.css";
-import logo from "../assests/images/pplus.png"
-import socialmedia from "../assests/images/socialmedia.png"
-// import brands from "../assests/images/Frame 4868223.png";
-// import pluslogo from "../assests/images/plusgoldlogo.jpg"
+import brands from "../assests/images/Group 189298.png";
+import pluslogo from "../assests/images/plusgoldlogo.jpg"
 const Footer = () => {
   return (
     <footer className="footer">
@@ -29,10 +27,10 @@ const Footer = () => {
         <div className="faq-section">
           <div className="upper-footer-cotainer">
           <div className="left-part">
-          <img src={logo} alt="P-Plus" className="p-plus" />
+          <img src={pluslogo} alt="P-Plus" className="p-plus" />
           <p>B.No 19, H.No 1413, R.S. Pal, Near Mahatma Gandhi School, Nagpur, Maharashtra, 440014</p>
           <p>Email : founders@getplus.in | Phone : +91-9035202565</p>
-          <img src={socialmedia} alt="Extra 1" className="extra-image1" />
+          <img src={brands} alt="Extra 1" className="extra-image1" />
         </div>
 
         <div className="middle-part">
@@ -220,6 +218,5 @@ const Footer = () => {
     </footer>
   );
 };
-
 
 export default Footer;

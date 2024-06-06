@@ -1,9 +1,9 @@
 import React from 'react'
 import './Safeforlife.css';
-import image1 from "../assests/images/lifegold3.png"
-import image2 from "../assests/images/lifegold2.png"
-import image3 from "../assests/images/lifegold1.png"
-import Ellipse from "../assests/images/Ellipse.png"
+import image1 from "../assests/images/Frame 1707481180.png"
+import image2 from "../assests/images/Frame 1707481181.png"
+import image3 from "../assests/images/Frame 1707481182.png"
+import Ellipse from "../assests/images/Ellipse 1744.png"
 
 const Safeforlife = () => {
   return (

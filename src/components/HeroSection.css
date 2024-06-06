@@ -39,7 +39,6 @@ height: Hug (34px)px;
 top: 531px;
 left: 97px;
 gap: 16.62px;
-
 }
 .cta-btn {
   background-color: rgb(188,26,59);
@@ -69,7 +68,7 @@ gap: 16.62px;
 }
 /* background heroien image section */
 #herobackground{
-  background: url("../assests/images/heroimage2.png");
+  background: url("../assests/images/Vector\ \(2\).png");
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;

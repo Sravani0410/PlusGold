@@ -1,10 +1,10 @@
 import React from "react";
 import "./HowItWorks.css";
-import work5 from "../assests/images/work5.svg";
-import work1 from "../assests/images/work1.svg";
-import work2 from "../assests/images/work2.svg";
-import work3 from "../assests/images/work3.svg";
-import work4 from "../assests/images/work4.svg";
+import work5 from "../assests/images/Rectangle 34624969.png";
+import work1 from "../assests/images/Frame 4868202.png";
+import work2 from "../assests/images/Frame 4868202-1.png";
+import work3 from "../assests/images/Frame 4868202-2.png";
+import work4 from "../assests/images/Frame 4868202-3.png";
 
 const HowItWorks = () => {
   return (
